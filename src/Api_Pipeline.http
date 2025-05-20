@@ -1,0 +1,6 @@
+@Api_Pipeline_HostAddress = http://localhost:5197
+
+GET {{Api_Pipeline_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
