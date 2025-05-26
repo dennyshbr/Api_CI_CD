@@ -1,1 +1,1 @@
-testando ci teadfasdf
+teste pull request com regra desabilitada
